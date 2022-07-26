@@ -7,4 +7,4 @@ This program builds and uses in Neural-Network Algorithm to recognize number cha
 In this repository, there is a Zip folder.
 This Zip folder was taken from Visual Studio and zipped, if you want to use this project, you can unzip the folder and open it by Visual Studio.
 
-*This project uses OpenTK and .Net 6.0
+* This project uses OpenTK and .Net 6.0
