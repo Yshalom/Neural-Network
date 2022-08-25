@@ -7,7 +7,10 @@
 In this repository, there is a Zip folder.
 This Zip folder was taken from Visual Studio and zipped, if you want to use this project, you can unzip the folder and open it by Visual Studio.
 
-* This project uses OpenTK and .Net 6.0 </p>
+* This project uses OpenTK and .Net 6.0 
+* The
+
+</p>
 
 <img src="neural network 1.png"></img>
 <img src="neural network 2.png"></img>
